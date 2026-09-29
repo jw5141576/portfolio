@@ -1,0 +1,26 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+strong{
+    color: rgba(18, 15, 223, 0.815);
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: medium;
+}
+header h1{
+    color: rgb(209, 10, 70);
+    font-family: monospace;
+    font-size: xx-large;
+    font-style: italic;
+    font-weight: bold;
+    font-weight: 200;
+}
+
+section h2{
+    color: rgb(235, 13, 105);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
