@@ -16,3 +16,14 @@ strong {
     color: mediumslateblue;
 }
 
+section strong{
+    color: slateblue;
+}
+nav a{
+    color: rgb(4, 150, 77);
+    font-style: oblique;
+    font-weight: bolder;
+}
+main h2{
+    color: rgb(7, 150, 43);
+}
